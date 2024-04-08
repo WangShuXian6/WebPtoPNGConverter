@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "WebP to PNG Converter",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Converts WEBP images to PNG format on web pages and during copy operations.",
+    "description": "The description of the extension."
+  },
+  "convertButtonLabel": {
+    "message": "Convert Images",
+    "description": "Label for the convert images button."
+  }
+}

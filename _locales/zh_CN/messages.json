@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "WebP转PNG转换器",
+    "description": "扩展的名称。"
+  },
+  "extensionDescription": {
+    "message": "在网页上和复制操作中将WEBP图片转换为PNG格式。",
+    "description": "扩展的描述。"
+  },
+  "convertButtonLabel": {
+    "message": "转换图片",
+    "description": "转换图片按钮的标签。"
+  }
+}
